@@ -1,6 +1,10 @@
 *{
     font-family: sans-serif;
-    color: 245,245,245;
+    
+}
+
+html{
+    background-color: rgb(245,245,245)
 }
 
 h1{
