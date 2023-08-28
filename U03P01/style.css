@@ -21,16 +21,17 @@ p{
     margin-bottom: 30px;
 }
 
+li:hover{
+    background-color:rgba(0,0,0,0.1);
+}
+
 li{
     font-size: 18px;
     font-family: monospace;
     padding: 10px;
-    cursor: color red;
 }
 
-li:hover{
-    color: 0,0,0,0.1;
-}
+
 
 #verde{
     color: green;
